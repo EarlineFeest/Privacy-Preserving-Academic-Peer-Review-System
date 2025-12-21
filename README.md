@@ -2,7 +2,7 @@
 
 A Hardhat-based implementation of a privacy-preserving academic peer review platform using Fully Homomorphic Encryption (FHE) on the FHEVM protocol by Zama.
 
-[Demo Video: Privacy-Preserving Academic Peer Review System.mp4](https://streamable.com/ixzz5v)
+[Demo Video: Privacy-Preserving Academic Peer Review System.mp4](https://youtu.be/yH5XoFd7P5Y)
 
 [Live Demo](https://privacy-preserving-academic-peer-re.vercel.app/)
 
